@@ -1,7 +1,7 @@
 {
   "name": "sinaPicBed",
   "version": "1.0.0",
-  "description": "sina picture bed api",
+  "description": "sina picture hosting api",
   "main": "index.js",
   "author": "J3n5en",
   "license": "MIT",

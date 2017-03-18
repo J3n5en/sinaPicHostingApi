@@ -5,6 +5,13 @@
 所以你们可以用于MWeb或者其他用途，，我最近在用它做一个Hexo生成静态文件时自动上传图片到新浪的插件，蛤蛤。
 ![](https://ws1.sinaimg.cn/large/6bf00bd8gy1fdr0sunaiuj20gc0guq56)
 
+## 用法
+1. `git clone https://github.com/J3n5en/sinaPicHostingApi.git ` 克隆项目
+2. `yarn（or npm i）` 安装依赖
+3. 修改config.json
+4. `node index.js` 运行server
+5. 在Mweb中添加发布服务（or 其他用途）
+
 ## `config.json` 说明
 
 ```js
