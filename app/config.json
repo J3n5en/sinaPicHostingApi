@@ -1,0 +1,12 @@
+{
+	"auth": {
+		"username": "i@j3n5n.com",
+		"password": "352033412"
+	},
+	"port": 80,
+	"url": "/upload",
+	"default": {
+		"protocol": "https",
+		"size": "large"
+	}
+}

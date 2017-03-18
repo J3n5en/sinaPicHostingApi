@@ -1,0 +1,16 @@
+{
+  "name": "sinaPicBed",
+  "version": "1.0.0",
+  "description": "sina picture bed api",
+  "main": "index.js",
+  "author": "J3n5en",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "formidable": "^1.1.1",
+    "log4js": "^1.1.1",
+    "node-axios-cookiejar": "^0.0.3",
+    "tough-cookie": "^2.3.2",
+    "tough-cookie-filestore": "^0.0.1"
+  }
+}
